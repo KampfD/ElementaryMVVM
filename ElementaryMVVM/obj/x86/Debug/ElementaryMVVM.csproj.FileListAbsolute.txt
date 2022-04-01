@@ -1,0 +1,16 @@
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Debug\ElementaryMVVM.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Debug\ElementaryMVVM.pdb
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ElementaryMVVM.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ElementaryMVVM.pdb
+I:\Projects\ElementaryMVVM\ElementaryMVVM\bin\Debug\ElementaryMVVM.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM\bin\Debug\ElementaryMVVM.pdb
+I:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Debug\ElementaryMVVM.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Debug\ElementaryMVVM.pdb
+g:\Projects\ElementaryMVVM\ElementaryMVVM\bin\Debug\ElementaryMVVM.dll
+g:\Projects\ElementaryMVVM\ElementaryMVVM\bin\Debug\ElementaryMVVM.pdb
+g:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Debug\ElementaryMVVM.csproj.AssemblyReference.cache
+g:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Debug\ElementaryMVVM.csproj.CoreCompileInputs.cache
+g:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Debug\ElementaryMVVM.dll
+g:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Debug\ElementaryMVVM.pdb

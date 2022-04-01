@@ -1,0 +1,7 @@
+I:\Projects\ElementaryMVVM\ElementaryMVVM\bin\Release\ElementaryMVVM.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Release\ElementaryMVVM.dll
+g:\Projects\ElementaryMVVM\ElementaryMVVM\bin\Release\ElementaryMVVM.dll
+g:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Release\ElementaryMVVM.csproj.AssemblyReference.cache
+g:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Release\ElementaryMVVM.csproj.CoreCompileInputs.cache
+g:\Projects\ElementaryMVVM\ElementaryMVVM\obj\x86\Release\ElementaryMVVM.dll

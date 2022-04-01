@@ -1,0 +1,9 @@
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Debug\ElementaryMVVM.Wpf.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Debug\ElementaryMVVM.Wpf.pdb
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ElementaryMVVM.Wpf.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ElementaryMVVM.Wpf.pdb
+H:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Debug\ElementaryMVVM.Wpf.dll
+H:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Debug\ElementaryMVVM.Wpf.pdb
+H:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ElementaryMVVM.Wpf.dll
+H:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Debug\ElementaryMVVM.Wpf.pdb

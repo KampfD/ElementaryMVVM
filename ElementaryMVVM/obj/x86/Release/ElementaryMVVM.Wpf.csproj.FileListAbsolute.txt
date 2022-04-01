@@ -1,0 +1,5 @@
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Release\ElementaryMVVM.Wpf.dll
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Release\ElementaryMVVM.Wpf.dll
+H:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\bin\Release\ElementaryMVVM.Wpf.dll
+H:\Projects\ElementaryMVVM\ElementaryMVVM.Wpf\obj\x86\Release\ElementaryMVVM.Wpf.dll

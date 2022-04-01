@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementaryMVVM", "ElementaryMVVM\ElementaryMVVM.csproj", "{8DEB6961-63F4-4738-8872-CF2F6492484B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementaryMVVM.Test", "ElementaryMVVM.Test\ElementaryMVVM.Test.csproj", "{887993E3-2A68-432D-8DA7-C90C56B1B049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEB6961-63F4-4738-8872-CF2F6492484B}.Debug|x86.ActiveCfg = Debug|x86
+		{8DEB6961-63F4-4738-8872-CF2F6492484B}.Debug|x86.Build.0 = Debug|x86
+		{8DEB6961-63F4-4738-8872-CF2F6492484B}.Release|x86.ActiveCfg = Release|x86
+		{8DEB6961-63F4-4738-8872-CF2F6492484B}.Release|x86.Build.0 = Release|x86
+		{887993E3-2A68-432D-8DA7-C90C56B1B049}.Debug|x86.ActiveCfg = Debug|x86
+		{887993E3-2A68-432D-8DA7-C90C56B1B049}.Debug|x86.Build.0 = Debug|x86
+		{887993E3-2A68-432D-8DA7-C90C56B1B049}.Release|x86.ActiveCfg = Release|x86
+		{887993E3-2A68-432D-8DA7-C90C56B1B049}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DEE12A1-1156-4A22-B6C4-EC38F7AC8BBC}
+	EndGlobalSection
+EndGlobal
